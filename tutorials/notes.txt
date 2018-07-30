@@ -19,4 +19,20 @@
     pycharm has debug mode with breakpoints
     pycharm: step in and step out of functions where defined
     pycharm and docker images work well together    
-        
+6. coding tips from Jeremy:
+    create a repo
+    write bs code in a hacky way 
+    test boundary conditions
+    start creating tags on gh
+    decide what input data formats you want to support
+    try to have the highest level be as semantic as possible
+    jupyterlab-scripting on atom-jupyterlab for tests
+    atom can be used for collaborative coding 
+    writing a package is copy pasting from the original jn
+    always write a "preprocessing" function for data wrangling
+        to facilitate funneling
+    for neuroimaging, preprocessing imaging formats and formatting
+        data to the type you want to work on with the module are    
+        distinct
+    power of small, simulated datasets for testing/debugging code
+    get to know list comprehensions, lambda functions and map 
