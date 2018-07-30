@@ -14,4 +14,9 @@
            "Bugs are written by god."
     another reminder to use neurostars for ni questions
     git-annex assistant for keeping clones in sync
+5. docker
+    dockerfile: set of instr for building a docker image
+    pycharm has debug mode with breakpoints
+    pycharm: step in and step out of functions where defined
+    pycharm and docker images work well together    
         
