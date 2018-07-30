@@ -1,0 +1,17 @@
+1. git/github
+    look at badges for integration on github
+    travis circleci for cont integ
+2. python for science
+3. jupyter environment
+    go to localhost:9999 for launching jl after starting the kernel
+    figure out your machine's ip address with ifconfig
+4. open science practices
+    use licences
+    contribute to existing projects
+    Yarik: "No code is written by god."
+           "No data is written by god."
+           "All code has bugs, even data has bugs."
+           "Bugs are written by god."
+    another reminder to use neurostars for ni questions
+    git-annex assistant for keeping clones in sync
+        
