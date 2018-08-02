@@ -35,4 +35,31 @@
         data to the type you want to work on with the module are    
         distinct
     power of small, simulated datasets for testing/debugging code
-    get to know list comprehensions, lambda functions and map 
+    get to know list comprehensions, lambda functions and map
+7. emily provost's talk:
+    is content of speech more informative than speech envelope,
+    or other lower level auditory features
+    core affect: emotion without labels. awesome. 
+    dataset: MSP improv (Busso, 2017
+    achieving mutimodality by concatenating feature
+    vectors from two modalities
+    can achieve speaker independent cross validation
+    definitely check if the trained dcnn is publicly available
+    activation easier to predict from audio, valence from video
+    Karam et al, ICASSP 2014
+    already discard speech content during preprocessing?
+    collect phone calls
+    if only calls with counsellors are being used, how is baseline mood 
+    being estimated for individual subjects? is the prediction of state for     individual participants?
+    identitiy vectors from speaker verification algorithms 
+    in order to recognize identity
+    normalizing for speaker specific variability was critical 
+    for depression
+    university of michingan
+8. alex huth's talk:
+    using localizers along with natural language stimuli
+    natural stimuli-hypothesized feature space-voxelwise regression
+    not clear if training dataset contains new words
+    voxelwise noise ceilings
+    extension to phrases for meaning, not words
+     
